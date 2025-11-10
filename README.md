@@ -1,3 +1,3 @@
 ## TUGAS UTS
-
-Silahkan bisa di clone dan di publish ulang menjadi repo mandiri kemudian dilaporkan link repo melalui google spreadsheet di : 
+Evan Prasetya
+G.111.24.0019

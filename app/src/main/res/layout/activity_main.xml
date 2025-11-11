@@ -31,7 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="Masukkan nama"
+        android:hint="Evan"
         android:inputType="text" />
 
     <TextView
@@ -44,7 +44,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
-        android:hint="Masukkan Email"
+        android:hint="alfarellnabilevanprasetya02@gmail.com"
         android:inputType="textEmailAddress" />
 
 
@@ -62,13 +62,12 @@
         android:layout_marginTop="8dp">
 
 
-
         <EditText
             android:id="@+id/etNamaDepan"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:hint="Nama Depan"/>
+            android:hint="Alfarell" />
 
         <Space
             android:layout_width="8dp"
@@ -79,7 +78,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:hint="Nama Belakang"/>
+            android:hint="Prasetya" />
 
     </LinearLayout>
 
@@ -90,10 +89,12 @@
         android:text="Password" />
 
     <EditText
-        android:id="@+id/editPassword"
+        android:id="@+id/editTextTextPassword2"
         android:layout_width="match_parent"
-        android:layout_height="28dp"
-        android:layout_marginBottom="16dp" />
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:text="Evan909" />
 
     <TextView
         android:id="@+id/textView3"
@@ -104,9 +105,10 @@
     <EditText
         android:id="@+id/editTextTextPassword"
         android:layout_width="match_parent"
-        android:layout_height="26dp"
+        android:layout_height="wrap_content"
         android:ems="10"
-        android:inputType="textPassword" />
+        android:inputType="textPassword"
+        android:text="evaN909" />
 
     <Button
         android:id="@+id/btnCancel"
